@@ -1,3 +1,4 @@
 /bin
-/go-llama.cpp
 /.idea
+/.vscode
+/pkg
