@@ -1,0 +1,7 @@
+[submodule "go-llama.cpp"]
+	path = go-llama.cpp
+	url = https://github.com/chturner94/go-llama.cpp.git
+
+[submodule "LLaMa-7B-GGML"]
+    path = llamaModels/LLaMa-7B-GGML
+    url = https://huggingface.co/TheBloke/LLaMa-7B-GGML
